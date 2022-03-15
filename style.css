@@ -1,0 +1,416 @@
+body{
+background: url(images/backg.jpg);
+
+}
+
+    
+#line img{
+   
+    height: 115px;
+    
+margin-top: 120px;
+    margin-left: 83px;
+    width: 530px;
+}
+
+.tyre img{
+ 
+   
+    margin-left: 710px;
+    margin-top: 79px;
+    height: 50px;
+    width: 100px;
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 130px;
+    height: 180px;
+image-resolution: 0px;
+   
+}
+h1{
+    position: absolute;
+    width: 347px;
+    height: 23px;
+    top: 130px;
+    left: 209px;
+    size: 20px;
+    color: #969696;
+   font-style: normal;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   font-size: small;
+   font-weight: bold;
+   text-transform: uppercase;
+   letter-spacing: 0.235em;
+   line-height: 23px;
+  
+
+}
+
+#navbar ul{
+    padding-left: 320px;
+    list-style: none;
+}
+
+#navbar li{
+display: inline;
+}
+
+#navbar a{
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    padding-right:30px ;
+}
+
+    
+
+button{
+ 
+    text-align: right;
+    color: white;
+    background-color: #0035c7;
+    margin-left: 520px;
+    margin-top: -300px;
+    border-radius: 40px/20px;
+    border-color: #0035c7;
+    
+    
+}
+p{
+position: absolute;
+width: 172px;
+height: 36px;
+left: 70px;
+padding-left: 30px;
+top: 16px;
+
+
+
+font-family: Neurial Grotesk;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 36px;
+
+
+letter-spacing: -0.075em;
+
+color: #0035c7;
+}
+
+
+h2{
+    position: absolute;
+    width: 570px;
+    height: 219px;
+    left: 209px;
+    top: 140px;
+    font-style: normal;
+    line-height:29px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+button[type="submit"]{
+    text-align: right;
+    color: white;
+    background-color: #0035c7;
+    margin-left: 209px;
+   margin-top: -190px;
+  
+   
+   
+}
+
+
+
+
+
+
+
+.img img{
+
+ position: absolute;
+ float: right;
+margin-left: 600px;
+top: 130px;
+width: 350px;
+height: 250px;
+
+}
+
+
+
+
+    
+    
+
+h3{
+    color: #0035c7;
+    position: static;
+    
+    margin: 2px 8px;
+    flex: none;
+    flex-grow: 0;
+    
+    font-size: smaller;
+    margin-top: 10px;
+    
+}
+
+h4{
+    font-size: smaller;
+    background-color: white;
+    margin-top: 10px;
+    margin-bottom: 7px;
+    
+    
+}
+h5{
+    color: #0035c7;
+    position: static;
+    
+    margin: 2px 8px;
+    flex: none;
+    flex-grow: 0;
+    
+    font-size: smaller;
+    margin-top: 10px;
+    text-align: center;
+    
+
+}
+
+h6{
+    position: absolute;
+    width: 470px;
+    height: 197px;
+    left: 790px;
+    top: 1027px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 20px;
+    color: #ffffff;
+    background-color: #0035c7;
+    padding-left: 10%;
+    padding-right: 7%;
+padding-top: 10%;
+margin-top: -578px;
+
+}
+h7{
+    text-align: center;
+    margin-left: 500px;
+    color: #969696;
+   margin-top: 70%;
+}
+h8{
+   
+    margin-top: 20px;
+    margin-left: -35px;
+    text-align: center;
+}
+h9{
+    font-weight: bolder;
+    margin-top: 20px;
+    margin-left: -43px;
+}
+h10{
+    margin-left: -43px;
+}
+h11{
+     
+    margin-top: 10px;
+    margin-left: 100px;
+   
+text-align: center;
+}
+h12{
+    font-weight: bolder;
+    margin-top: 20px;
+    margin-left: 70px;
+    
+    text-align: center;
+
+}
+h13{
+    margin-left: 70px;
+    text-align: center;
+
+}
+h14{
+    margin-top: 10px;
+    margin-left: 100px;
+   
+text-align: center;
+}
+h15{
+    font-weight: bolder;
+    margin-top: 20px;
+    margin-left: 70px;
+    
+    text-align: center;
+}
+h16{
+    margin-left: 70px;
+    text-align: center;
+}
+h17{
+    font-size: .83em;
+    font-weight: bolder;
+    background-color: white;
+    margin-top: 10px;
+    margin-bottom: 7px;
+    font: 300px;
+}
+
+.rectangle{
+    background-color: #e6e6e6;
+    margin-top: 90px;
+    margin-bottom: 80px;
+   height: 350px;
+}
+
+#gary img{
+    border-radius: 70px;
+    width: 50px;
+    height: 50px;
+    margin-left: 7px;
+    margin-top: -19px;
+    
+}
+#jane img{
+    border-radius: 70px;
+    width: 50px;
+    height: 50px;
+    margin-left: 7px;
+    margin-top: -38px;
+}
+#Thomas img{
+    border-radius: 70px;
+    width: 70px;
+    height: 70px;
+    margin-left: 90px;
+    margin-top: -38px;
+}
+#Jennie img{
+    border-radius: 70px;
+    width: 70px;
+    height: 70px;
+    margin-left: 80px;
+    margin-top: -38px;
+}
+
+
+#name{
+    border: 2px solid white;
+    margin: 120px;
+    margin-left: 209px;
+    border-radius: 40px/20px;
+    padding: 10px 7px 3px;
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 130px;
+    height: 80px;
+    background-color: #ffffff;
+  
+    font-size: smaller;
+    
+}
+#name2{
+    border: 2px solid white;
+    margin: 120px;
+    margin-left: 409px;
+   display: inline;
+    border-radius: 40px/20px;
+    padding: 10px 7px 3px;
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 130px;
+    height: 80px;
+    background-color: #ffffff;
+  
+    font-size: smaller;
+   
+}
+#name3{
+  
+    margin-top: 250px;
+    margin-left: 209px;
+   display: inline;
+   
+    padding: 10px 7px 3px;
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 170px;
+    height: 80px;
+   
+  
+    font-size: smaller;
+}
+#name4{
+  
+    margin-top: 250px;
+    margin-left: 400px;
+   display: inline;
+ 
+    padding: 10px 7px 3px;
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 80px;
+  
+  
+    font-size: smaller;
+}
+
+#name5{
+    
+    margin-top: 250px;
+    margin-left: 700px;
+   display: inline;
+    
+    padding: 10px 7px 3px;
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 80px;
+    
+  
+    font-size: smaller;
+}
+
+#emily img{
+    border-radius: 70px;
+    width: 70px;
+    height: 70px;
+    margin-left: -30px;
+    margin-top: -38px;
+}
+
+.footer{
+    background-color: #0035c7;
+    margin-top: 490px;
+    margin-bottom: 80px;
+   height: 50px;
+}
